@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.png</file>
+        <file>images/btc.png</file>
+        <file>images/eth.png</file>
+        <file>qml/main.qml</file>
+    </qresource>
+</RCC>
